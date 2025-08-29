@@ -43,7 +43,7 @@
  * скриншоты с успешно собранными сборками.
 
 Файл gitlab-ci.yml
-
+```
 stages:
   - test
   - build
@@ -70,5 +70,5 @@ build:
    - docker build .
   tags:
     - homework
-    
+```
 <img src = "img/2.png" width = 100%>
