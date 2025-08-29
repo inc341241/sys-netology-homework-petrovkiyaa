@@ -71,4 +71,4 @@ build:
   tags:
     - homework
 ```
-<img src = "img/2.png" width = 100%>
+<img src = "img/2.jpg" width = 100%>
